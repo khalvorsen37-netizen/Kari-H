@@ -24,7 +24,7 @@ Using AI tools to build smarter GTM playbooks, sales prompts, competitive resear
 This GitHub is where I experiment and share what I'm learning.
 
 ## 📬 Let's Connect
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin)](https://linkedin.com/in/YOUR-LINKEDIN-URL)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/karihalvorsen/)
 
 ---
 *"The best GTM strategy is one your sellers actually use."*
